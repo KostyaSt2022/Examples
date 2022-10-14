@@ -1,0 +1,15 @@
+C:\Users\Kostya\Desktop\Examples\example003_Sum\bin\Debug\net6.0\example003_Sum.exe
+C:\Users\Kostya\Desktop\Examples\example003_Sum\bin\Debug\net6.0\example003_Sum.deps.json
+C:\Users\Kostya\Desktop\Examples\example003_Sum\bin\Debug\net6.0\example003_Sum.runtimeconfig.json
+C:\Users\Kostya\Desktop\Examples\example003_Sum\bin\Debug\net6.0\example003_Sum.dll
+C:\Users\Kostya\Desktop\Examples\example003_Sum\bin\Debug\net6.0\example003_Sum.pdb
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\example003_Sum.csproj.AssemblyReference.cache
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\example003_Sum.AssemblyInfoInputs.cache
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\example003_Sum.AssemblyInfo.cs
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\example003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\example003_Sum.dll
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\refint\example003_Sum.dll
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\example003_Sum.pdb
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\example003_Sum.genruntimeconfig.cache
+C:\Users\Kostya\Desktop\Examples\example003_Sum\obj\Debug\net6.0\ref\example003_Sum.dll
